@@ -1,0 +1,8 @@
+{
+  "name": "TradeHub",
+  "description": "Une plateforme de marketplace futuriste connectant acheteurs et fournisseurs à travers l'Afrique francophone.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
